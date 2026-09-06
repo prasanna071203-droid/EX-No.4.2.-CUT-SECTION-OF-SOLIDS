@@ -1,3 +1,4 @@
+[exp.8.git.pdf](https://github.com/user-attachments/files/31877951/exp.8.git.pdf)
 # EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
@@ -42,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+
+[exp.8.git.pdf](https://github.com/user-attachments/files/31877954/exp.8.git.pdf)
 
 
 ## RESULT:
